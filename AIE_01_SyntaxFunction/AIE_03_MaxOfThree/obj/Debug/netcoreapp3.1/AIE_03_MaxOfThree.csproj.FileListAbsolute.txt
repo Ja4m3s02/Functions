@@ -1,0 +1,2 @@
+C:\Users\s210209\Desktop\aie\Functions\AIE_01_SyntaxFunction\AIE_03_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_03_MaxOfThree.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\Functions\AIE_01_SyntaxFunction\AIE_03_MaxOfThree\obj\Debug\netcoreapp3.1\AIE_03_MaxOfThree.AssemblyInfo.cs

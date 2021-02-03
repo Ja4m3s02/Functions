@@ -1,0 +1,3 @@
+C:\Users\s210209\Desktop\aie\Functions\AIE_01_SyntaxFunction\AIE_01_SyntaxFunction\obj\Debug\netcoreapp3.1\AIE_01_SyntaxFunction.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\Functions\AIE_01_SyntaxFunction\AIE_01_SyntaxFunction\obj\Debug\netcoreapp3.1\AIE_01_SyntaxFunction.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\Functions\AIE_01_SyntaxFunction\AIE_01_SyntaxFunction\obj\Debug\netcoreapp3.1\AIE_01_SyntaxFunction.AssemblyInfo.cs
