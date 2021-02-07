@@ -1,0 +1,11 @@
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\bin\Debug\netcoreapp3.1\AIE_02_IsAVowel.exe
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\bin\Debug\netcoreapp3.1\AIE_02_IsAVowel.deps.json
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\bin\Debug\netcoreapp3.1\AIE_02_IsAVowel.runtimeconfig.json
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\bin\Debug\netcoreapp3.1\AIE_02_IsAVowel.runtimeconfig.dev.json
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\bin\Debug\netcoreapp3.1\AIE_02_IsAVowel.dll
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\bin\Debug\netcoreapp3.1\AIE_02_IsAVowel.pdb
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\obj\Debug\netcoreapp3.1\AIE_02_IsAVowel.csprojAssemblyReference.cache
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\obj\Debug\netcoreapp3.1\AIE_02_IsAVowel.AssemblyInfoInputs.cache
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\obj\Debug\netcoreapp3.1\AIE_02_IsAVowel.AssemblyInfo.cs
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\obj\Debug\netcoreapp3.1\AIE_02_IsAVowel.dll
+D:\aie\Functions\AIE_01_SyntaxFunction\AIE_02_IsAVowel\obj\Debug\netcoreapp3.1\AIE_02_IsAVowel.pdb
